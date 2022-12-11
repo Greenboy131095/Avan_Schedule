@@ -14,6 +14,8 @@
 #include<stdio.h>
 
 
+
+//constant 
 #define DEBUG 1
 
 
