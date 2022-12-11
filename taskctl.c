@@ -13,7 +13,7 @@
 #include <unistd.h>
 #include<stdio.h>
 
-/* Constants */
+
 #define DEBUG 1
 
 
