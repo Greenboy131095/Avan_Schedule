@@ -2,7 +2,7 @@
 
 /* Fill in your Name and GNumber in the following two comment fields
  * Name:KIM DUONG
- * GNumber:G01177228
+ * GNumber:  G01177228
  */
 
 #include <sys/wait.h>
@@ -19,7 +19,7 @@
 
 // uncomment if you want to use any of these:
 
-#define NUM_PATHS 2
+
 #define NUM_INSTRUCTIONS 10
 
 static const char *task_path[] = { "./", "/usr/bin/", NULL };
