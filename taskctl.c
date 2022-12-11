@@ -13,7 +13,9 @@
 #include <unistd.h>
 #include<stdio.h>
 
-/* Constants */
+
+
+//constant 
 #define DEBUG 1
 
 
